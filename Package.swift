@@ -4,6 +4,7 @@ import PackageDescription
 
 let package = Package(
     name: "SocketIO",
+    platforms: [.iOS(.v14)],
     products: [
         .library(name: "SocketIO", targets: ["SocketIO"])
     ],
