@@ -1,6 +1,6 @@
 [submodule "Starscream"]
 	path = Starscream
-	url = https://github.com/daltoniam/Starscream.git
+	url = https://github.com/NSFuntik/Starscream.git
 [submodule "Source/Starscream"]
 	path = Source/Starscream
 	url = https://github.com/daltoniam/Starscream.git
